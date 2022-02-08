@@ -5,7 +5,7 @@
     <td><img src="https://profile-counter.glitch.me/DoraemonOS/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
-<img src="https://raw.githubusercontent.com/DoraemonOS/.github/12/profile/README.jpeg"> 
+<img src="https://raw.githubusercontent.com/DoraemonOS/.github/12/profile/Dora.png"> 
 
 ## Hello World
 * [**PureAOSP Project**]
