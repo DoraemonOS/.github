@@ -1,4 +1,10 @@
-# DoraemonOS
+# DoraemonOS 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/DoraemonOS/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
 <img src="https://raw.githubusercontent.com/DoraemonOS/.github/12/profile/README.jpeg"> 
 
 ## Hello World
