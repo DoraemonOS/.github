@@ -1,7 +1,7 @@
 # DoraemonOS 
 <table>
   <tr>
-    <td>You are visitor</td>
+    <td>Lượt truy cập web ( F5 - Reload )</td>
     <td><img src="https://profile-counter.glitch.me/DoraemonOS/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
