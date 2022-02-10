@@ -13,7 +13,7 @@
 I create ROM base AOSP for Some devices. I Like a minimal and snooth AOSP
 ```
 #
-* [**Donate:**]
+* **Donate:**
 ```name
 TRAN NGUYEN TUAN ANH
 ```
